@@ -1,4 +1,6 @@
-Abstract
+Abstract:
+
+
 The Game of Thrones series, based on the book – A Song of Ice and Fire by George R.R. Martin has become wildly popular in the past few years. This popularity is in part due to the shocking twists and turns of the series, the cultish catchphrases and some impressive characterisations. This report aims to provide insights about Games of throne characters and the story line using twitter data. The report is useful for production house of Game of thrones and the team. Using pyspark and twitter, social tweet data across the seasons has been analysed. People reaction and popularity has been visually presented. The most popular deaths across all seasons, death of character is popular episode, interest peak across seasons, most liked and hated charcater, popular house in each season, popular charcaters across seasons, most shocking seasons and the shocking episodes alonngwith a sentiment analysis of each season in Game of Thrones is attached in this report.
 Business Overview
 Considering the cult like status and overarching popularity enjoyed by the series - Game of Thrones, it is only natural that production houses interested in creating and funding more such shows would need to study the trends of GOT. By reviewing the most popular worldwide opinion on Game of Thrones, they can focus on what worked for the show and try to replicate it on other shows to garner attention from the viewers.
